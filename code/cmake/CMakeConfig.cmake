@@ -1,0 +1,3 @@
+SET(WORKSPACE_DIR C:/QW/programer/source_code)
+
+SET(COMMON_INCLUDE_DIR ${WORKSPACE_DIR}/common)
